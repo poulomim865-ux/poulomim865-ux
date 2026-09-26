@@ -1,16 +1,65 @@
-## Hi there 👋
+### <!-- bold + italic --> ***Hello, I'm Poulomi!*** 👋
+---
+💻 About Me
+ ---
+I’m a 3rd-year B.Tech student in Computer Science and Engineering, passionate about software development and building practical projects. I have a growing foundation in Java, Python, C, HTML, CSS, and JavaScript, along with hands-on experience using VS Code, Git, and GitHub across Windows and Linux environments.
 
-<!--
-**poulomim865-ux/poulomim865-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I’m focusing on Full-Stack Development, improving my frontend skills while exploring backend technologies, APIs, databases, and modern web development tools. I enjoy turning ideas into projects and learning through hands-on experience.
 
-Here are some ideas to get you started:
+I believe in continuous learning, problem-solving, and consistency. I enjoy tackling challenging problems, learning from mistakes, and improving my skills step by step. I also value teamwork and communication, as great software is often built through collaboration and sharing ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’re interested in technology, open-source, or collaborating on a project, feel free to reach out! I’m always happy to learn, build, and connect with fellow developers.
+---
+---
+###🚀 What I'm Currently Doing
+---
+💻 Learning and practicing Full-Stack Development
+🌐 Building web-based projects
+🛠️ Improving my frontend and backend skills
+📚 Strengthening my programming and problem-solving abilities
+🔧 Exploring new technologies and development tools
+
+---
+---
+### 🚀TECH STACK  
+ ---
+ 👩🏻‍💻LANGUAGES
+ 
+![C](https://skillicons.dev/icons?i=c) 
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![Java](https://skillicons.dev/icons?i=java)
+
+
+### 🛠 Tools
+
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![VSCode](https://skillicons.dev/icons?i=vscode)
+---
+# 🔗 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poulomi-maity-738755402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+
+# 📊 GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=poulomi865-ux&color=8e44ad)
+
+## ⚡ Khushi5-js's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poulomi865-ux&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=poulomi865-ux&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poulomi865-ux&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poulomi865-ux&theme=react-dark&hide_border=true)
+
+---
