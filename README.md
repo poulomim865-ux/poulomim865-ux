@@ -48,18 +48,4 @@ If you’re interested in technology, open-source, or collaborating on a project
 
 ![Profile Views](https://komarev.com/ghpvc/?username=poulomim865-ux&color=8e44ad)
 
-## ⚡ poulomim865-ux's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poulomim865-ux&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=poulomim865-ux&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poulomim865-ux&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poulomim865-ux&theme=react-dark&hide_border=true)
-
----
