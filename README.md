@@ -48,7 +48,7 @@ If you’re interested in technology, open-source, or collaborating on a project
 
 ![Profile Views](https://komarev.com/ghpvc/?username=poulomim865-ux&color=8e44ad)
 
-## ⚡ Khushi5-js's GitHub Stats
+## ⚡ poulomim865-ux's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poulomim865-ux&show_icons=true&theme=radical)
 
